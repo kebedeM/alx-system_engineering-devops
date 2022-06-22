@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod u+x 3-listfiles ls -l
+#!/bin/bash 
+ls -l
